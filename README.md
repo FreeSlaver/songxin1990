@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 同时也寻求缺乏技术的优秀创业团队。  
 目前的规划是：花3年时间，复用编程技能，转到黑客安全方向。  
 毕竟互联网企业想爬上去得会搞人际关系，同时必须得有亿亿级高并发的项目经验，最基本的你得有一个亮瞎面试官氪金狗眼的履历。 
-我的个人主页:https://3gods.com  
+我的个人主页:https://freeslaver.com  
 
 
 Hello everyone,My name is Songxin,My hometown is Wuhan City HuBei Province,  
